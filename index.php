@@ -104,7 +104,7 @@ if (!isset($_SESSION["connectAdmin"]))
                ================================================== -->
         <!-- Placed at the end of the document so the pages load faster -->
         <?php include_once("includes/js.inc.php"); ?>
-
+        <?php // ?>
 
 
     // try to redirect
