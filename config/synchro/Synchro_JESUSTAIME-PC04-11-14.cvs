@@ -1,0 +1,14 @@
+
+insert into bureauechange(codeunique, idlocalite,designation, idcreateur)VALUES( 'JESUSTAIME-PC1', 'DIEUAMOUR2903', 'Bureau avotrou', 'DIEUAMOUR1') ;04-11-14-13-08-08
+update bureauechange set designation ='Bureau avotrou vvhvh', idlocalite ='DIEUAMOUR2903' where codeunique ='JESUSTAIME-PC1'  ;04-11-14-13-26-34
+update bureauechange set designation ='Bureau avotrou vvhvh', idlocalite ='DIEUAMOUR2903' where codeunique ='JESUSTAIME-PC1'  ;04-11-14-13-26-38
+update bureauechange set designation ='Bureau avotrou vvhvh', idlocalite ='DIEUAMOUR2903' where codeunique ='JESUSTAIME-PC1'  ;04-11-14-13-26-44
+update bureauechange set designation ='Bureau avotrou vvhvhh', idlocalite ='DIEUAMOUR2903' where codeunique ='JESUSTAIME-PC1'  ;04-11-14-13-26-57
+update bureauechange set designation ='Bureau avotrou ghjgjh', idlocalite ='DIEUAMOUR2903' where codeunique ='JESUSTAIME-PC1'  ;04-11-14-13-27-23
+update bureauechange set designation ='Bureau avotrou ghjgjh', idlocalite ='DIEUAMOUR2903' where codeunique ='JESUSTAIME-PC1'  ;04-11-14-13-27-47
+update bureauechange set designation ='Bureau avotrou', idlocalite ='DIEUAMOUR2903' where codeunique ='JESUSTAIME-PC1'  ;04-11-14-13-28-04
+insert into elementscp(codeunique, idtypeelement,designation, idcreateur)VALUES( 'JESUSTAIME-PC1', '', '', 'DIEUAMOUR1') ;04-11-14-14-17-06
+update elementscp set designation ='Lettre reco', idtypeelement ='undefined' where codeunique ='JESUSTAIME-PC1'  ;04-11-14-14-24-29
+update elementscp set designation ='Lettre reco', idtypeelement ='undefined' where codeunique ='JESUSTAIME-PC1'  ;04-11-14-14-28-33
+update elementscp set designation ='Lettre recommandée', idtypeelement ='3' where codeunique ='JESUSTAIME-PC1'  ;04-11-14-14-29-32
+INSERT INTO acteurs(designation,codeunique,perscontact,adresse,telephone,idcreateur) VALUES('\'r(d','JESUSTAIME-PC1','trdtdt-','Gcfyt','yfy-f','DIEUAMOUR1' ) ;04-11-14-14-30-35

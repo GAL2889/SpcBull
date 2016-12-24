@@ -1,0 +1,1 @@
+<p>Copyright &copy; <strong>SI-TECMAVS Ci</strong> <?php echo date('Y')?>. Tous droits réservés. Designed and Developped by <strong>DG&DA</strong></p>

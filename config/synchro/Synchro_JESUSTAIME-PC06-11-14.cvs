@@ -1,0 +1,2 @@
+
+INSERT INTO actionnonlivraison(libelle,codeunique,complement,typeactionnonlivraison,idcreateur) VALUES('fbdbd','JESUSTAIME-PC1','dbvdf','dfb','DIEUAMOUR1' ) ;06-11-14-14-10-44

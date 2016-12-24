@@ -1,0 +1,6 @@
+
+INSERT INTO acteurs(designation,codeunique,perscontact,adresse,telephone,idcreateur) VALUES('MTN','JESUSTAIME-PC4','Doekfg,','Addfoflof','229','DIEUAMOUR1' ) ;29-10-14-13-56-55
+INSERT INTO acteurs(designation,codeunique,perscontact,adresse,telephone,idcreateur) VALUES('Sotrkf,n','JESUSTAIME-PC5','Prirj','Peoerk','2333','DIEUAMOUR1' ) ;29-10-14-14-00-45
+INSERT INTO acteurs(designation,codeunique,perscontact,adresse,telephone,idcreateur) VALUES('Merci','JESUSTAIME-PC6','Seigneur','Jésus','0000','DIEUAMOUR1' ) ;29-10-14-14-02-35
+UPDATE acteurs SET designation ='Woodinccc',perscontact ='Jo hlonnon' ,adresse ='06bp:2479' ,telephone ='22921310907'WHERE codeunique = 'JESUSTAIME-PC3' ;29-10-14-14-03-01
+UPDATE acteurs SET designation ='Woodini',perscontact ='Jo hlonnon' ,adresse ='06bp:2479' ,telephone ='22921310907'WHERE codeunique = 'JESUSTAIME-PC1' ;29-10-14-14-05-06

@@ -1,0 +1,2 @@
+
+INSERT INTO scp(`numordre`,`numcolis`,`codeunique`, `droitfixe`, `taxetransportinterieur`, `droitdouane`, `montantavis`, `fraismagcoilisjour`, `lieuxscp`, `echeance`, `datelivraison`,`montantremboursement`,`iddestinataire`,idexpediteur,idpaysorigine, `datescp`, `idcreateur` )VALUES ('2014_0001','GTTY','JESUSTAIME-PC1' ,'5','98','45','32','','','','','23','JESUSTAIME-PC1','JESUSTAIME-PC1','13','2014-11-18','DIEUAMOUR1') ;18-11-14-14-16-53

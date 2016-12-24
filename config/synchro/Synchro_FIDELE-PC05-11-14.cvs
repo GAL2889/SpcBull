@@ -1,0 +1,2 @@
+
+insert into bureauechange(codeunique, idlocalite,designation, idcreateur)VALUES( 'FIDELE-PC3', 'undefined', 'Cotonou', 'DIEUAMOUR1') ;05-11-14-11-45-46

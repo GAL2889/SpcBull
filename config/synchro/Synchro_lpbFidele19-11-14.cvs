@@ -1,0 +1,2 @@
+
+UPDATE acteurs SET designation ='Expéditeur',perscontact ='SCB' ,adresse ='06bp:2974' ,telephone ='22921310907'WHERE codeunique = 'JESUSTAIME-PC1' ;19-11-14-15-18-35
